@@ -1,0 +1,9 @@
+respondent_id,gender,satisfaction,service_quality,recommend
+R01,Male,4,5,Yes
+R02,Female,5,4,Yes
+R03,Male,3,3,No
+R04,Female,4,4,Yes
+R05,Female,2,2,No
+R06,Male,5,5,Yes
+R07,Female,4,3,Yes
+R08,Male,3,4,No
